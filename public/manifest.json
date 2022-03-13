@@ -1,8 +1,9 @@
 {
-  "name": "React Material Minimal UI",
-  "short_name": "Minimal-UI",
+  "name": "InstroCal",
+  "short_name": "InstroCal",
   "display": "standalone",
   "start_url": "/",
+  "scope": "/",
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "icons": [
